@@ -1,0 +1,6 @@
+Desafío - Estructuras de datos y funciones (I)
+En este desafío validaremos nuestros conocimientos utilizando las distintas propiedades que
+las estructuras de datos tienen para resolver problemáticas. Para lograrlo, necesitarás utilizar
+el archivo Desafío evaluado - Estructuras de datos y funciones (I) (Apoyo).zip
+Lee todo el documento antes de comenzar el desarrollo individual, para asegurarte de tener
+el máximo de puntaje y enfocar bien los esfuerzos.
